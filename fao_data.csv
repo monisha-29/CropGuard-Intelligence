@@ -1,0 +1,101 @@
+ID,DESCRIPTION,AREA,COUNTRY,CODE,PRODUCTION_TYPE,CODE_2,CROP,YEAR,YEAR_REPEAT,VALUE_UNIT,VALUE,ELEMENT,ESTIMATED
+58,Description,Africa,Country,2542,Type,162,Wheat,2016,2017.8652766603454,Unit,23512.16646683415,Production,Estimated
+634,Description,South America,Country,6293,Type,316,Rice,2012,2015.665465036523,Unit,61181.54498563161,Production,Actual
+513,Description,Oceania,Country,2191,Type,953,Wheat,2019,2008.5788841516542,Unit,38551.26414016933,Production,Estimated
+751,Description,Europe,Country,7313,Type,926,Soybean,2003,2019.591699409099,Unit,74680.7155324856,Production,Actual
+802,Description,Africa,Country,7938,Type,894,Soybean,2009,2020.8095190056051,Unit,21352.401029188113,Production,Actual
+96,Description,North America,Country,3681,Type,788,Barley,2002,2004.305038011118,Unit,78991.19898273474,Production,Actual
+638,Description,Europe,Country,2540,Type,560,Rice,2008,2007.9638002842398,Unit,60768.43164128376,Production,Actual
+118,Description,North America,Country,7172,Type,709,Sugarcane,2012,2019.455437895384,Unit,12312.462705513088,Production,Actual
+560,Description,Asia,Country,6541,Type,204,Barley,2017,2015.1535275657768,Unit,42035.95383615914,Production,Estimated
+601,Description,Europe,Country,2365,Type,198,Rice,2014,2001.0099875232459,Unit,86488.29592068274,Production,Actual
+488,Description,Africa,Country,9691,Type,610,Barley,2003,2016.4118041167796,Unit,92373.06294805,Production,Actual
+237,Description,Europe,Country,9702,Type,484,Sugarcane,2014,2017.3867586307274,Unit,47104.3121095625,Production,Actual
+885,Description,Europe,Country,8494,Type,504,Corn,2001,2015.7605404200715,Unit,48602.86083081828,Production,Estimated
+897,Description,Europe,Country,5312,Type,922,Corn,2014,2016.7902797493098,Unit,91927.01776899082,Production,Actual
+272,Description,Oceania,Country,2324,Type,617,Corn,2007,2017.3277862105488,Unit,59119.75418952016,Production,Estimated
+189,Description,Europe,Country,4141,Type,575,Corn,2007,2003.914504722551,Unit,4251.820354100397,Production,Actual
+999,Description,North America,Country,8419,Type,808,Wheat,2016,2004.949526667365,Unit,91362.19682503375,Production,Actual
+704,Description,Asia,Country,4486,Type,962,Corn,2011,2013.3089298381237,Unit,25574.417832958035,Production,Estimated
+447,Description,South America,Country,2810,Type,744,Sugarcane,2018,2019.0651887397128,Unit,58185.56345506317,Production,Actual
+581,Description,Europe,Country,7588,Type,969,Soybean,2009,2006.6401282282263,Unit,17385.81842536941,Production,Estimated
+790,Description,Africa,Country,3923,Type,870,Soybean,2008,2012.354440191696,Unit,4354.036864412903,Production,Estimated
+861,Description,Europe,Country,6301,Type,536,Wheat,2004,2014.3426233317598,Unit,31835.843942142983,Production,Actual
+247,Description,Africa,Country,5186,Type,122,Corn,2005,2009.4909206272798,Unit,78269.07504706268,Production,Estimated
+963,Description,North America,Country,9905,Type,664,Corn,2019,2014.9894315519618,Unit,28481.130090312396,Production,Actual
+76,Description,Africa,Country,6977,Type,776,Corn,2001,2018.8930163511357,Unit,22789.62419402861,Production,Actual
+154,Description,South America,Country,5268,Type,813,Barley,2012,2013.1061324278187,Unit,22055.3976497814,Production,Estimated
+656,Description,Asia,Country,5748,Type,557,Rice,2005,2011.3354023002073,Unit,52002.194558274445,Production,Estimated
+435,Description,Africa,Country,5849,Type,182,Barley,2004,2009.2136381831551,Unit,97578.59025259287,Production,Estimated
+997,Description,Africa,Country,4709,Type,244,Rice,2000,2012.1272116890286,Unit,46439.909813684295,Production,Estimated
+86,Description,Asia,Country,7619,Type,184,Corn,2020,2007.4626114881862,Unit,56173.23152011474,Production,Actual
+697,Description,South America,Country,9647,Type,177,Corn,2020,2008.2211243142315,Unit,86202.56977118267,Production,Actual
+285,Description,Europe,Country,4072,Type,556,Barley,2005,2011.1690070734517,Unit,53971.9021744322,Production,Estimated
+974,Description,Africa,Country,7530,Type,977,Barley,2005,2001.3990013602072,Unit,19261.824270466754,Production,Actual
+220,Description,Asia,Country,1504,Type,100,Rice,2015,2004.8095332094208,Unit,30659.99526488123,Production,Actual
+69,Description,North America,Country,2214,Type,150,Soybean,2003,2011.3998355228816,Unit,31683.75570059248,Production,Actual
+47,Description,Asia,Country,2531,Type,784,Rice,2010,2009.0620910058653,Unit,40334.49343030219,Production,Actual
+94,Description,North America,Country,8576,Type,816,Barley,2008,2006.989131504162,Unit,43252.10162833819,Production,Estimated
+750,Description,South America,Country,1823,Type,871,Sugarcane,2002,2015.3415318729953,Unit,80178.42018535268,Production,Estimated
+958,Description,Europe,Country,1928,Type,545,Barley,2018,2014.56806975547,Unit,35589.31290588397,Production,Actual
+453,Description,Asia,Country,6029,Type,548,Sugarcane,2007,2003.501345959861,Unit,47354.951015696555,Production,Estimated
+204,Description,Oceania,Country,1133,Type,980,Wheat,2004,2018.451211422842,Unit,62872.622718054175,Production,Estimated
+912,Description,Africa,Country,3105,Type,587,Barley,2003,2010.4038961544834,Unit,38394.86879657676,Production,Estimated
+218,Description,South America,Country,4627,Type,899,Wheat,2005,2015.57067913392,Unit,83819.91651594096,Production,Actual
+474,Description,Asia,Country,7316,Type,133,Soybean,2001,2012.0361678344052,Unit,59157.90681917336,Production,Actual
+432,Description,Africa,Country,2852,Type,447,Rice,2019,2020.9515449344008,Unit,30110.423242876182,Production,Actual
+341,Description,Asia,Country,5910,Type,194,Sugarcane,2010,2015.8004655208154,Unit,71691.860779193,Production,Estimated
+551,Description,North America,Country,5175,Type,171,Rice,2003,2014.8465896861126,Unit,53237.1252843338,Production,Actual
+612,Description,Asia,Country,6348,Type,650,Wheat,2014,2016.3500107200657,Unit,53911.133234467445,Production,Actual
+289,Description,Oceania,Country,7190,Type,253,Sugarcane,2005,2003.005687696518,Unit,48627.70689037101,Production,Estimated
+254,Description,Asia,Country,2256,Type,349,Rice,2016,2004.2954364565587,Unit,50204.18293330365,Production,Actual
+734,Description,Asia,Country,4376,Type,773,Barley,2005,2014.9953457266959,Unit,76770.27182555782,Production,Actual
+357,Description,Oceania,Country,6645,Type,537,Corn,2018,2010.3736112297481,Unit,11195.166453800237,Production,Estimated
+23,Description,South America,Country,4486,Type,217,Wheat,2001,2015.8473411290624,Unit,34101.918319737735,Production,Estimated
+762,Description,Asia,Country,4584,Type,870,Rice,2014,2002.161236645627,Unit,8474.833016585033,Production,Estimated
+522,Description,Oceania,Country,9053,Type,990,Wheat,2010,2011.2661083811765,Unit,75571.37585399764,Production,Actual
+758,Description,Africa,Country,4330,Type,405,Wheat,2007,2007.9552528766953,Unit,27957.883617309646,Production,Actual
+837,Description,North America,Country,3703,Type,367,Sugarcane,2018,2009.5970046049154,Unit,89845.61057206953,Production,Actual
+100,Description,North America,Country,9662,Type,153,Sugarcane,2012,2012.6831153135226,Unit,53131.26819927008,Production,Estimated
+802,Description,Asia,Country,9120,Type,335,Corn,2011,2010.548055296713,Unit,80274.22737712598,Production,Estimated
+180,Description,South America,Country,8114,Type,488,Barley,2004,2011.3370733793695,Unit,97914.21212598016,Production,Actual
+223,Description,South America,Country,2353,Type,833,Wheat,2005,2010.2135071219077,Unit,84139.09708620049,Production,Actual
+906,Description,Africa,Country,6063,Type,862,Rice,2003,2008.5880587187953,Unit,86832.38224114083,Production,Estimated
+762,Description,Asia,Country,9549,Type,924,Soybean,2018,2016.209521592563,Unit,41390.46504111963,Production,Estimated
+659,Description,North America,Country,8575,Type,500,Wheat,2019,2000.256264518679,Unit,55620.536930674636,Production,Estimated
+442,Description,South America,Country,1667,Type,723,Wheat,2000,2012.5672967253097,Unit,26134.967840287125,Production,Estimated
+608,Description,Asia,Country,5468,Type,866,Corn,2019,2011.8756752937825,Unit,20415.196869651827,Production,Actual
+769,Description,South America,Country,7819,Type,402,Barley,2016,2015.039760569392,Unit,51045.28003149734,Production,Estimated
+325,Description,Oceania,Country,4719,Type,306,Soybean,2011,2012.5796166603238,Unit,59909.84899034164,Production,Actual
+516,Description,South America,Country,3745,Type,328,Sugarcane,2014,2017.3627753839905,Unit,34587.853343722905,Production,Actual
+16,Description,North America,Country,8483,Type,952,Sugarcane,2000,2020.1405706858445,Unit,57374.90825858653,Production,Actual
+792,Description,Europe,Country,1539,Type,677,Rice,2013,2007.1930094007494,Unit,88858.58776883679,Production,Estimated
+336,Description,Africa,Country,5964,Type,174,Soybean,2005,2004.7743706436297,Unit,56115.43689355324,Production,Estimated
+759,Description,Africa,Country,5835,Type,534,Sugarcane,2004,2008.89553411083,Unit,72360.49653474016,Production,Estimated
+258,Description,North America,Country,4775,Type,202,Rice,2010,2006.0465219459902,Unit,80726.18176843261,Production,Estimated
+497,Description,South America,Country,7042,Type,521,Barley,2003,2012.9139555262057,Unit,98884.14941358884,Production,Actual
+988,Description,Asia,Country,8102,Type,803,Rice,2012,2019.1489005857022,Unit,60716.54281552098,Production,Estimated
+896,Description,South America,Country,8312,Type,863,Sugarcane,2010,2002.9214400770043,Unit,80878.16474729602,Production,Estimated
+160,Description,North America,Country,6320,Type,837,Corn,2002,2002.1166866633337,Unit,96302.28253693259,Production,Actual
+475,Description,Africa,Country,7132,Type,905,Corn,2000,2005.3763261689269,Unit,94496.56283215007,Production,Estimated
+852,Description,South America,Country,8891,Type,405,Corn,2005,2015.2480073073104,Unit,14967.103028993644,Production,Actual
+664,Description,Africa,Country,3779,Type,197,Sugarcane,2017,2012.4522210104353,Unit,41232.83851907868,Production,Actual
+908,Description,Asia,Country,1924,Type,949,Corn,2009,2002.1464659487292,Unit,33075.01604957316,Production,Actual
+690,Description,Africa,Country,2581,Type,897,Soybean,2004,2019.2937609674757,Unit,9605.576480084583,Production,Actual
+675,Description,Africa,Country,8714,Type,434,Barley,2009,2016.591777379606,Unit,63690.83671618509,Production,Actual
+380,Description,Europe,Country,4324,Type,958,Rice,2011,2000.4834747005405,Unit,73854.55670640423,Production,Actual
+545,Description,Europe,Country,6713,Type,534,Rice,2001,2013.678711430753,Unit,84964.68145122146,Production,Actual
+929,Description,Oceania,Country,8026,Type,546,Sugarcane,2012,2016.1961800389145,Unit,13154.912076608141,Production,Actual
+957,Description,Europe,Country,1255,Type,407,Corn,2007,2007.863142764129,Unit,87767.96351165409,Production,Estimated
+691,Description,Africa,Country,5804,Type,348,Corn,2001,2001.4473523267116,Unit,64649.63079781107,Production,Estimated
+427,Description,North America,Country,2838,Type,265,Wheat,2019,2001.6237423752646,Unit,70690.66737871243,Production,Estimated
+613,Description,Africa,Country,1009,Type,580,Barley,2000,2002.189186287088,Unit,91151.7763504901,Production,Estimated
+268,Description,North America,Country,3871,Type,434,Soybean,2004,2017.649232271589,Unit,62851.36583328186,Production,Actual
+835,Description,North America,Country,9989,Type,641,Rice,2008,2019.12441016337,Unit,34250.719857833676,Production,Estimated
+577,Description,Europe,Country,8409,Type,858,Wheat,2016,2002.5790264187603,Unit,82685.62581084332,Production,Actual
+417,Description,South America,Country,8418,Type,205,Wheat,2008,2004.9540267264967,Unit,36942.86200731396,Production,Estimated
+168,Description,Asia,Country,6124,Type,662,Sugarcane,2010,2003.475930717713,Unit,4388.582971232383,Production,Estimated
+842,Description,Europe,Country,2015,Type,180,Rice,2014,2003.9127384693766,Unit,83234.79614995973,Production,Estimated
+43,Description,Europe,Country,3193,Type,232,Sugarcane,2005,2017.5873065690523,Unit,35174.02234324628,Production,Actual
+556,Description,South America,Country,9415,Type,896,Soybean,2002,2006.9750746657537,Unit,77609.61779693268,Production,Estimated
+285,Description,Asia,Country,8449,Type,237,Wheat,2016,2006.5403295449585,Unit,36913.0315719286,Production,Actual
